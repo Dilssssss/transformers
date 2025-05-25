@@ -2,3 +2,5 @@
   - local: index
     title: 🤗 Transformers
   title: Get started
+  - local: pipeline_tutorial
+      title: Pipeline
